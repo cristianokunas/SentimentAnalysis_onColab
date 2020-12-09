@@ -1,11 +1,11 @@
 <h1 align="">Welcome to SentimentAnalysis_onColab 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/Version-1.0-blue" />
-  <a href="https://github.com/cristianokunas/Sentiment_Analysis/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/Licence-MIT-yellow" />
+  <a href="https://github.com/cristianokunas/SentimentAnalysis_onColab/blob/main/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/Licence-MIT-green" />
   </a>
   <a href="#">
-    <img alt="Documentation" src="https://img.shields.io/badge/NVIDIA-Tesla%20P4-76B900?logo=nvidia&logoColor=white"/>
+    <img alt="Documentation" src="https://img.shields.io/badge/NVIDIA-Tesla%20P4-brightgreen?logo=nvidia&logoColor=white"/>
   </a>
 </p>
 
@@ -25,5 +25,4 @@ Você pode baixá-lo [aqui](https://drive.google.com/file/d/1Ul2Fz6wSZUD1aMyP-M7
 
 ## 📝 License
 
-Copyright © 2020 [Cristiano Alex Künas](https://github.com/cristianokunas).<br />
-This project is [MIT](https://github.com/cristianokunas/SentimentAnalysis_onColab/blob/main/LICENSE) licensed.
+Copyright © 2020 [Cristiano Alex Künas](https://github.com/cristianokunas).
